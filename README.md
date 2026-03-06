@@ -118,10 +118,10 @@
     <div class="photo-grid">
     
         <div class="photo-card">
-            <img src="12.jpg" alt="Ảnh 1"> <h3>xinh lắm nha nên chụp thêm vài kiểu với đồ bộ đồ này nhé</h3>
+            <img src="23.jpg" alt="Ảnh 1"> <h3>xinh lắm nha nên chụp thêm vài kiểu với đồ bộ đồ này nhé</h3>
         </div>
         <div class="photo-card">
-            <img src="23.jpg" alt="Ảnh 2"> <h3>beautiful rất đẹp nên là chụp thêm vài kiểu nữa nhé</h3>
+            <img src="12.jpg" alt="Ảnh 2"> <h3>beautiful rất đẹp nên là chụp thêm vài kiểu nữa nhé</h3>
         </div>
     </div>
 
